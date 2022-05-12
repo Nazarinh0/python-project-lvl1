@@ -15,4 +15,5 @@ publish:
 package-install:
 	python3.10 -m pip install --user dist/*.whl #установка пакета
 
-
+lint: #проверка линтером
+	poetry run flake8 brain_games
