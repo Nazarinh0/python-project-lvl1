@@ -5,5 +5,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: run-linter
-      - uses: actions/checkout
-        run: make lint
+      - uses: actions/checkout@v3.0.0
+      - run: make lint
