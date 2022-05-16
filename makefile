@@ -9,6 +9,9 @@ brain-games:
 brain-even:
 	poetry run brain-even #запуск игры Even
 
+brain-calc:
+	poetry run brain-calc #запуск игры Calculation
+
 build:
 	poetry build #собираем пакет
 
