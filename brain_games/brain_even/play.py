@@ -9,7 +9,6 @@ def is_even(number: int) -> bool:
 
 def play_even():
     """Main logic of the Brain Even Game."""
-    print(f'Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     score = 0
     goal = 3
