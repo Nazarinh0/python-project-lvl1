@@ -6,6 +6,9 @@ install: #установка через poetry
 brain-games: #запуск игры
 	poetry run brain-games
 
+brain-even: #запуск игры Even
+    poetry run brain-even
+
 build:
 	poetry build #собираем пакет
 

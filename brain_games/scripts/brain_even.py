@@ -1,4 +1,4 @@
-#!/usr/bin/python3.10
+#!/usr/bin/env python3.10
 from brain_games.brain_even.play import play_even
 
 
