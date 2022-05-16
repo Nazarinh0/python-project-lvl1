@@ -1,8 +1,5 @@
 #!/usr/bin/env python3.10
 import prompt
-import random
-
-from brain_games.games import even
 
 
 def play(game):
@@ -13,13 +10,9 @@ def play(game):
     print(f'Hello, {name}')
     print(game.DESCRIPTION)
     while True:
-        number = random.randint(1, 100)
-        print('Question: ' + str(number))
+        (question, correct_answer) = game.solution()
+        print('Question: ' + str(question))
         answer = prompt.string('Your answer: ')
-        if even.is_even(number):
-            correct_answer = 'yes'
-        else:
-            correct_answer = 'no'
         if answer == correct_answer:
             print('Correct!')
             score += 1
