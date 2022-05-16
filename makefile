@@ -1,13 +1,13 @@
 #makefile
 
-install: #установка через poetry
-	poetry install
+install:
+	poetry install #установка через poetry
 
-brain-games: #запуск игры
-	poetry run brain-games
+brain-games:
+	poetry run brain-games #запуск игры
 
-brain-even: #запуск игры Even
-    poetry run brain-even
+brain-even:
+	poetry run brain-even #запуск игры Even
 
 build:
 	poetry build #собираем пакет
@@ -18,5 +18,5 @@ publish:
 package-install:
 	python3.10 -m pip install --user dist/*.whl #установка пакета
 
-lint: #проверка линтером
-	poetry run flake8 brain_games
+lint:
+	poetry run flake8 brain_games #проверка линтером
