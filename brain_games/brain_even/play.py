@@ -35,5 +35,3 @@ def play_even():
             break
 
 
-print(play_even())
-
