@@ -10,10 +10,9 @@ def is_even(number: int) -> bool:
 
 
 def solution():
-    number = random.randint(1, 100)
-    if is_even(number):
+    question = random.randint(1, 100)
+    if is_even(question):
         correct_answer = 'yes'
-        return number, correct_answer
-    else:
-        correct_answer = 'no'
-        return number, correct_answer
+        return question, correct_answer
+    correct_answer = 'no'
+    return question, correct_answer
