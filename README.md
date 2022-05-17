@@ -4,7 +4,8 @@
 [![Linter check](https://github.com/Nazarinh0/python-project-lvl1/workflows/linter-check/badge.svg)](https://github.com/Nazarinh0/python-project-lvl1/actions/workflows/linter-check.yml)
 
 Demonstrations:
-- Installation and Brain Game: Is Even: https://asciinema.org/a/ZEsoTjLm12wMumcX3pFuGLfK2
-- BrainGame: Calculation:  https://asciinema.org/a/QLnFcd7S4hKCXnbj2W1kTparU
-- BrainGame: GCD: https://asciinema.org/a/aghsANpyjUOrDStsKFE1fBHLA
-- BrainGame: Progression: https://asciinema.org/a/Tt8KkljfmsIxYdLjpEJZUqyGY
+- Installation and BrainGame - Is Even: https://asciinema.org/a/ZEsoTjLm12wMumcX3pFuGLfK2
+- BrainGame - Calculation:  https://asciinema.org/a/QLnFcd7S4hKCXnbj2W1kTparU
+- BrainGame - GCD: https://asciinema.org/a/aghsANpyjUOrDStsKFE1fBHLA
+- BrainGame - Progression: https://asciinema.org/a/Tt8KkljfmsIxYdLjpEJZUqyGY
+- BrainGame - Is Prime: https://asciinema.org/a/xvqHKEWN14C6ZruDqY4nm29Jf
