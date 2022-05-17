@@ -17,7 +17,3 @@ def solution():
     else:
         correct_answer = 'no'
         return number, correct_answer
-
-
-
-
