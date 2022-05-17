@@ -12,6 +12,9 @@ brain-even:
 brain-calc:
 	poetry run brain-calc #запуск игры Calculation
 
+brain-gcd:
+	poetry run brain-gcd #запуск игры GCD(НОД)
+
 build:
 	poetry build #собираем пакет
 
