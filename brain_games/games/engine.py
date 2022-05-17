@@ -3,7 +3,7 @@ import prompt
 
 
 def play(game):
-    """Define Main logic of the Brain Even Game."""
+    """Define Main logic of the Brain Games."""
     name = prompt.string('May I have your name? ')
     score = 0
     goal = 3
