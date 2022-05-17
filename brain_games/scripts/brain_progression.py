@@ -4,7 +4,7 @@ from brain_games.games.engine import play
 
 
 def main():
-    print(f'Welcome to the Brain Games!')
+    print('Welcome to the Brain Games!')
     play(progression)
 
 
