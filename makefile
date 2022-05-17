@@ -18,6 +18,9 @@ brain-gcd:
 brain-progression:
 	poetry run brain-progression #запуск игры Progression
 
+brain-prime:
+	poetry run brain-prime #запуск игры Prime
+
 build:
 	poetry build #собираем пакет
 
