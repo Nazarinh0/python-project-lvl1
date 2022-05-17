@@ -15,6 +15,9 @@ brain-calc:
 brain-gcd:
 	poetry run brain-gcd #запуск игры GCD(НОД)
 
+brain-progression:
+	poetry run brain-progression #запуск игры Progression
+
 build:
 	poetry build #собираем пакет
 
