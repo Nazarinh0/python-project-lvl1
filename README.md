@@ -5,3 +5,4 @@
 
 Demonstration (Installation and BrainGame: Is Even): https://asciinema.org/a/ZEsoTjLm12wMumcX3pFuGLfK2
 Demonstration (BrainGame: Calculation):  https://asciinema.org/a/QLnFcd7S4hKCXnbj2W1kTparU
+Demonstation (BrainGame: GCD): https://asciinema.org/a/aghsANpyjUOrDStsKFE1fBHLA
