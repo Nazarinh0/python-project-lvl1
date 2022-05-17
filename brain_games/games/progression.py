@@ -14,6 +14,6 @@ def get_progression():
 def solution():
     progression = get_progression()
     correct_answer = str(random.choice(progression))
-    progression = str(progression)
+    progression = ' '.join(str(i) for i in progression)
     question = progression.replace(correct_answer, "..")
     return question, correct_answer
