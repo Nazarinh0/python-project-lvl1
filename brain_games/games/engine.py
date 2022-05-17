@@ -17,7 +17,8 @@ def play(game):
             print('Correct!')
             score += 1
         else:
-            print(f"""'{answer}' is wrong answer ;(. Correct answer was {correct_answer}.""")
+            print(f'"{answer}" is wrong answer ;(. '
+            f'Correct answer was "{correct_answer}".')
             print(f"""Let's try again, {name}!""")
             break
         if score == goal:
