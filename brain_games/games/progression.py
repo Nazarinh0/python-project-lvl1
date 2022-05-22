@@ -5,7 +5,7 @@ DESCRIPTION = 'What number is missing in the progression?'
 
 
 def get_progression():
-    start = random.randint(1, 20)
+    start = random.randint(10, 20)
     stop = random.randint(50, 100)
     step = random.randint(3, 7)
     return list(range(start, stop, step))
