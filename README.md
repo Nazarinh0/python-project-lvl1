@@ -26,7 +26,7 @@ After installation, you can play games with the following commands:
 - `brain-prime` - guess if the given number is prime
 
 ### Demonstrations:
-- Installation and BrainGame - Is Even: https://asciinema.org/a/ZEsoTjLm12wMumcX3pFuGLfK2
+- Installation and BrainGame - Is Even: https://asciinema.org/a/512789
 - BrainGame - Calculation:  https://asciinema.org/a/QLnFcd7S4hKCXnbj2W1kTparU
 - BrainGame - GCD: https://asciinema.org/a/aghsANpyjUOrDStsKFE1fBHLA
 - BrainGame - Progression: https://asciinema.org/a/Tt8KkljfmsIxYdLjpEJZUqyGY
