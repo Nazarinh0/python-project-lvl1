@@ -28,6 +28,6 @@ After installation, you can play games with the following commands:
 ### Demonstrations:
 - Installation and BrainGame - Is Even: https://asciinema.org/a/512789
 - BrainGame - Calculation:  https://asciinema.org/a/512792
-- BrainGame - GCD: https://asciinema.org/a/aghsANpyjUOrDStsKFE1fBHLA
+- BrainGame - GCD: https://asciinema.org/a/512793
 - BrainGame - Progression: https://asciinema.org/a/Tt8KkljfmsIxYdLjpEJZUqyGY
 - BrainGame - Is Prime: https://asciinema.org/a/xvqHKEWN14C6ZruDqY4nm29Jf
