@@ -4,11 +4,13 @@ import prompt
 
 def play(game):
     """Define Main logic of the Brain Games."""
+    
     name = prompt.string('May I have your name? ')
     score = 0
     goal = 3
     print(f'Hello, {name}')
     print(game.DESCRIPTION)
+    
     while True:
         (question, correct_answer) = game.solution()
         print('Question: ' + str(question))
